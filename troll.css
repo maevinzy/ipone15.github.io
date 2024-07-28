@@ -1,0 +1,9 @@
+body{background-image: url(http://127.0.0.1:5500/gatojaja.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+    a{background-color: #555;
+        font-size: 30px;
+        color: 000
+        ;}

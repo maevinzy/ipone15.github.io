@@ -1,0 +1,1 @@
+alert('Click en aceptar, para reclamar una recompensa');
